@@ -1,0 +1,7 @@
+# Project exclude paths
+/Consumer/target/
+/jdk_proxy/target/
+/my_RPC/target/
+/Provider/target/
+/Provider-common/target/
+/rpc_demo/target/
